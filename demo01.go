@@ -154,4 +154,7 @@ func main(){
 
 	fmt.Println("\n--- 检查过期 ---")
 	sim.CheckExpiry("2025-07-02")
+
+	
+	fmt.Println("这是在 dev 分支添加的测试代码")//dev分支
 }
